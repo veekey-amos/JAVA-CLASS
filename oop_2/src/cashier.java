@@ -2,7 +2,7 @@ public class  Cashier extends User {
 
 
     @Override
-    String getpermission(){Add commentMore actions
+    String getpermission(){
         return null;
     }
 }

@@ -1,7 +1,7 @@
 public class Admin extends User {
 
 
-    @OverrideAdd commentMore actions
+    @Override
     String getpermission() {
         return null;
     }

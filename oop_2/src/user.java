@@ -27,7 +27,7 @@ public abstract class User implements Authenticable {
         return null;
     }
     @Override
-    public String passkey(){Add commentMore actions
+    public String passkey(){
         return null;
     }
 }
